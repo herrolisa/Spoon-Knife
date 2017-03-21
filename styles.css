@@ -3,6 +3,8 @@
   padding:0px;
 }
 
+body{background-color: #EDDFEC;}
+
 #octocat {
   display: block;
   width:384px;
@@ -15,3 +17,12 @@ p {
   margin: 50px auto;
   font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
 }
+
+#container{
+	margin: auto;
+	width:500px;
+	border:2px dashed red;
+	border-radius: 25px;
+}
+
+.pink{color:pink;font-weight: bold;}
